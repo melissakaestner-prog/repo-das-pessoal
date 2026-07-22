@@ -1,4 +1,3 @@
-<img src="https://d.ibtimes.com/en/full/4631936/67-meme-kid.jpg?w=736&f=7865325e2f7823c1f2a16563bcf0a094" alt="Meme Kid">
 
 Curso: Desenvolvimento de Software Unidade Curricular: Desenvolvimento Ágil de Software Professora: Melissa Regina da Luz Kaestner
 
