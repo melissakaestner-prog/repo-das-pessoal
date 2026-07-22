@@ -5,3 +5,7 @@ Lista alunos:
 01.
 02.
 67. Daniel Costa
+2025222 - David Pires Lopes
+01. Bruno Sousa 1
+02. Bruno Sousa 2 (Gui(Quem sabe sabe))
+roda doda vira salta roda vem
