@@ -18,3 +18,5 @@ Lista alunos:
 12 Diogo Ferreira
 13 Pedro Lobo
 14 Martim Antunes
+15 Elvys Graça
+16 David Rufino
