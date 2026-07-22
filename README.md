@@ -5,7 +5,12 @@ Lista alunos:
 2025222 - David Pires Lopes
 01. Bruno Sousa 1
 02. Bruno Sousa 2 (Gui(Quem sabe sabe))
-03. Volodymyr Tsilmak
-04. Allan Garcia (eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)
-05. Guilherme Branco
-6. 67. Daniel Costa
+roda doda vira salta roda vem
+03. Allan Garcia (eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)
+04. Rodrigo Rodrigues - 2025502
+05. Daniel Costa
+06. André Freire
+07. Volodymyr Tsilmak
+08. Allan Garcia (eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)
+09. Guilherme Branco
+10. Daniel Costa
