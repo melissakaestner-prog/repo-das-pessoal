@@ -3,5 +3,4 @@ Unidade Curricular: Desenvolvimento Ágil de Software
 Professora: Melissa Regina da Luz Kaestner
 
 Lista alunos:
-01.
-02.
+2025222 - David Pires Lopes
