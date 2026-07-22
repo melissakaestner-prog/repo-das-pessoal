@@ -15,3 +15,4 @@ roda doda vira salta roda vem
 08. Allan Garcia (eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)
 09. Guilherme Branco
 10. Daniel Costa
+11. Leonardo Barros
