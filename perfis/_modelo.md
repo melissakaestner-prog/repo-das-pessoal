@@ -1,5 +1,5 @@
 <!-- Copie este padrão para criar perfis/SEUNOME.md na SUA branch. -->
-   # Melissa Regina da Luz Kaestner
+   # Daniel Correia da Costa
 
    - Curso: Técnico em Desenvolvimento de Software
-   - Uma curiosidade sobre mim: Adoro as Feiras Medievais de Portugal.
+   - Uma curiosidade sobre mim: Não como pizza com queijo nem tomate
