@@ -3,5 +3,5 @@ Unidade Curricular: Desenvolvimento Ágil de Software
 Professora: Melissa Regina da Luz Kaestner
 
 Lista alunos:
-01.
+01.Pedro Lobo
 02.
