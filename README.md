@@ -8,5 +8,9 @@ Lista alunos:
 roda doda vira salta roda vem
 03. Allan Garcia (eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)
 04. Rodrigo Rodrigues - 2025502
-67. Daniel Costa
-08. André Freire
+05. Daniel Costa
+06. André Freire
+07. Volodymyr Tsilmak
+08. Allan Garcia (eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)
+09. Guilherme Branco
+10. Daniel Costa
