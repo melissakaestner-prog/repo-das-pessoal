@@ -9,4 +9,4 @@ roda doda vira salta roda vem
 03. Allan Garcia (eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)
 04. Rodrigo Rodrigues - 2025502
 67. Daniel Costa
-
+08. André Freire
