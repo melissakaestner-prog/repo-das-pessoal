@@ -3,5 +3,6 @@ Unidade Curricular: Desenvolvimento Ágil de Software
 Professora: Melissa Regina da Luz Kaestner
 
 Lista alunos:
-01.
-02.
+01. Bruno Sousa 1
+02. Bruno Sousa 2 (Gui(Quem sabe sabe))
+roda doda vira salta roda vem
