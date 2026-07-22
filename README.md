@@ -16,3 +16,4 @@ roda doda vira salta roda vem
 09. Guilherme Branco
 10. Daniel Costa
 11. Leonardo Barros
+12. Diogo Ferreira
